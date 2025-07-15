@@ -1,5 +1,5 @@
 import { Routes, Route } from 'react-router-dom';
-import UserPage from '../pages/index';
+import UserPage from '../pages/crud/index';
 
 function AppRoutes() {
   return (

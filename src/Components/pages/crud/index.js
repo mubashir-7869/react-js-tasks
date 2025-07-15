@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import axios from 'axios';
-import Form from '../pages/form';
-import Table from '../pages/table';
+import Form from './form';
+import Table from '../table';
 
 const API_URL = 'https://jsonplaceholder.typicode.com/users';
 
